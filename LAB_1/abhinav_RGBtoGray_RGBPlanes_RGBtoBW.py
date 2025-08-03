@@ -102,6 +102,3 @@ def abhinav_RGBtoGray_RGBPlanes_RGBtoBW(imgg, choice, gray_logic=1):
 abhinav_RGBtoGray_RGBPlanes_RGBtoBW("node.png", choice=1, gray_logic=1)
 
 
-# # ---------------- Example Usage ----------------
-# # Case 1: Weighted Grayscale
-# krish_RGBtoGray_RGBPlanes_RGBtoBW("image.png", choice=1, gray_logic=1)
